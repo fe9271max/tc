@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+geoip2
+urllib3
+PySocks
