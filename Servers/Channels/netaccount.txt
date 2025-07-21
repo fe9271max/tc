@@ -1,0 +1,7 @@
+vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?security=tls&sni=edt-f5k.pages.dev&fp=randomized&type=ws&path=/?ed%3D2560&host=edt-f5k.pages.dev&packetEncoding=xudp&encryption=none#
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8080?security=none&type=ws&path=/&host=v2ngsupply2.ip-ddns.com&packetEncoding=xudp&encryption=none#
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=tls&sni=pqh30v8.waipdirect.shop&type=grpc&packetEncoding=xudp&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSzZvRkZvUXVuQ0xkVkYweklWbFlH@23.177.185.63:49454#
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?security=tls&sni=VngSupply.Ip-DdNS.com&alpn=http/1.1&fp=chrome&type=ws&path=/uLF6HXZ7986oF7Yg?ed&host=vngsupply.ip-ddns.com&packetEncoding=xudp&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5anU5Tjhock5GR1ZwOEVXNm1pazli@23.177.185.63:49454#
