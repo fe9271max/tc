@@ -1,2 +1,4 @@
-vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780?security=none&type=tcp&headerType=&path=&host=#t.me/entryNET/config=1838329481624884 | 3.20s
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=%2F&security=none&encryption=none&type=ws#t.me/entryNET/config=1838328402138026 | 3.63s
+vless://cca45b57-0f24-43c8-8911-f8dab5af1e10@172.67.162.36:8880/?type=ws&encryption=none&flow=&host=0522.yeyefeng.dpdns.org&path=%2F#t.me/entryNET/config=1838371373130697 | 4.33s
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#t.me/entryNET/config=1838371626626780 | 7.91s
+vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=chess.com&type=ws#t.me/entryNET/config=1838370744479650 | 8.06s
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#t.me/entryNET/config=1838370177444368 | 8.30s

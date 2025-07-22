@@ -1,4 +1,2 @@
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052/?type=tcp&headerType=none&host=skyroom.online#%F0%9F%87%AB%F0%9F%87%AE%20FI%20-%20Helsinki%20-%20%23001 | 0.49s
-vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-fi-cdn.easy-upload.org:2010/?type=tcp&headerType=none&host=igap.net#%F0%9F%87%AB%F0%9F%87%AE%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%DA%A9%D9%86%DB%8C%D8%AF | 0.55s
-vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-tr-cdn.easy-upload.org:2010/?type=tcp&headerType=none&host=gharar.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20Istanbul%20-%20%23001 | 0.74s
-vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-de-cdn.easy-upload.org:2010/?type=tcp&headerType=none&host=gharar.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20Frankfurt%20-%20(%20VIP%20)%20%23001 | 0.87s
+vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-fi-cdn.easy-upload.org:2010/?type=tcp&headerType=none&host=igap.net#%F0%9F%87%AB%F0%9F%87%AE%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%DA%A9%D9%86%DB%8C%D8%AF | 3.01s
+vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052/?type=tcp&headerType=none&host=skyroom.online#%F0%9F%87%AB%F0%9F%87%AE%20FI%20-%20Helsinki%20-%20%23001 | 4.68s

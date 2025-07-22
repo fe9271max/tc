@@ -1,9 +1,1 @@
-vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 0.66s
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 0.67s
-vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 0.70s
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 0.71s
-vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 1.06s
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@104.24.252.91:8080/?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#Telegram: | 1.19s
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80/?path=%2F&security=none&encryption=none&type=ws#Telegram: | 1.19s
-vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780/?security=none&type=tcp&headerType=&path=&host=#Telegram: | 1.44s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880/?mode=gun&security=&encryption=none&type=grpc#Telegram: | 4.15s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880/?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#Telegram: | 1.81s

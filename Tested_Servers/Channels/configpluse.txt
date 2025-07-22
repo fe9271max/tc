@@ -1,2 +1,1 @@
-vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 | 1.15s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880/?type=grpc&encryption=none&flow=#%40networld_vpn | 4.16s
+vless://09f1d928-05ab-4ba2-80c5-f33edc244024@242488292719828919.m.www.servers801.ir:8443?path=%2F45f4d22d.Mareza.pages.dev%3Fed%3D80&security=tls&encryption=none&host=45f4d22d.mareza.pages.dev&type=ws&sni=115794818s.servers801.ir#ترکیه | 5.26s

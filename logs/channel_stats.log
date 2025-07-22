@@ -1,403 +1,137 @@
 Channel Statistics Report (Testing Phase)
 Summary per channel (Final State):
-https://t.me/s/NamiraNet                      | Total: 8     | Active: 2     | Failed: 6     | Success: 25.0%
-https://t.me/s/ai_duet                        | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/antifilterjadid                | Total: 6     | Active: 4     | Failed: 2     | Success: 66.7%
-https://t.me/s/appsooner                      | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/argo_vpn1                      | Total: 8     | Active: 8     | Failed: 0     | Success: 100.0%
-https://t.me/s/argooo_vpn                     | Total: 18    | Active: 0     | Failed: 18    | Success: 0.0%
-https://t.me/s/artemisvpn1                    | Total: 15    | Active: 0     | Failed: 15    | Success: 0.0%
-https://t.me/s/asak_vpn                       | Total: 11    | Active: 3     | Failed: 8     | Success: 27.3%
-https://t.me/s/awlix_ir                       | Total: 13    | Active: 0     | Failed: 13    | Success: 0.0%
-https://t.me/s/azarbayjab1                    | Total: 10    | Active: 2     | Failed: 8     | Success: 20.0%
-https://t.me/s/bestiivpn                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/betv2ray                       | Total: 2     | Active: 0     | Failed: 2     | Success: 0.0%
-https://t.me/s/cav2ray                        | Total: 19    | Active: 0     | Failed: 19    | Success: 0.0%
-https://t.me/s/club_profsor                   | Total: 15    | Active: 3     | Failed: 12    | Success: 20.0%
-https://t.me/s/config_proxy                   | Total: 14    | Active: 4     | Failed: 10    | Success: 28.6%
-https://t.me/s/configfa                       | Total: 9     | Active: 2     | Failed: 7     | Success: 22.2%
-https://t.me/s/configfast                     | Total: 2     | Active: 0     | Failed: 2     | Success: 0.0%
-https://t.me/s/configms                       | Total: 13    | Active: 5     | Failed: 8     | Success: 38.5%
-https://t.me/s/configpluse                    | Total: 16    | Active: 2     | Failed: 14    | Success: 12.5%
-https://t.me/s/configshubplus                 | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/configv2rayforfree             | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/confing_chanel                 | Total: 17    | Active: 3     | Failed: 14    | Success: 17.6%
-https://t.me/s/confingv2raayng                | Total: 7     | Active: 0     | Failed: 7     | Success: 0.0%
-https://t.me/s/connect_sho                    | Total: 13    | Active: 6     | Failed: 7     | Success: 46.2%
-https://t.me/s/customv2ray                    | Total: 14    | Active: 7     | Failed: 7     | Success: 50.0%
-https://t.me/s/customvpnserver                | Total: 17    | Active: 1     | Failed: 16    | Success: 5.9%
-https://t.me/s/dailytek                       | Total: 11    | Active: 1     | Failed: 10    | Success: 9.1%
-https://t.me/s/dailyv2ry                      | Total: 20    | Active: 7     | Failed: 13    | Success: 35.0%
-https://t.me/s/deamnet_proxy                  | Total: 14    | Active: 1     | Failed: 13    | Success: 7.1%
-https://t.me/s/directvpn                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/dnsforyou                      | Total: 16    | Active: 1     | Failed: 15    | Success: 6.2%
-https://t.me/s/eliteproxyv2                   | Total: 9     | Active: 1     | Failed: 8     | Success: 11.1%
-https://t.me/s/entrynet                       | Total: 7     | Active: 2     | Failed: 5     | Success: 28.6%
-https://t.me/s/expressvpn_420                 | Total: 17    | Active: 2     | Failed: 15    | Success: 11.8%
-https://t.me/s/falcunargo                     | Total: 8     | Active: 2     | Failed: 6     | Success: 25.0%
-https://t.me/s/farahvpn                       | Total: 17    | Active: 1     | Failed: 16    | Success: 5.9%
-https://t.me/s/fast_2ray                      | Total: 16    | Active: 1     | Failed: 15    | Success: 6.2%
-https://t.me/s/fastkanfig                     | Total: 8     | Active: 0     | Failed: 8     | Success: 0.0%
-https://t.me/s/filter_breaker                 | Total: 18    | Active: 0     | Failed: 18    | Success: 0.0%
-https://t.me/s/filtershekan_channel           | Total: 13    | Active: 1     | Failed: 12    | Success: 7.7%
-https://t.me/s/flystoreir                     | Total: 16    | Active: 1     | Failed: 15    | Success: 6.2%
-https://t.me/s/freakconfig                    | Total: 13    | Active: 7     | Failed: 6     | Success: 53.8%
-https://t.me/s/free1_vpn                      | Total: 17    | Active: 1     | Failed: 16    | Success: 5.9%
-https://t.me/s/free1ss                        | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/free4allvpn                    | Total: 2     | Active: 0     | Failed: 2     | Success: 0.0%
-https://t.me/s/free_nettm                     | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/free_proxy_001                 | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/free_serverir                  | Total: 17    | Active: 2     | Failed: 15    | Success: 11.8%
-https://t.me/s/free_vpn02                     | Total: 13    | Active: 0     | Failed: 13    | Success: 0.0%
-https://t.me/s/freeiranianv2rey               | Total: 14    | Active: 0     | Failed: 14    | Success: 0.0%
-https://t.me/s/freevirgoolnet                 | Total: 9     | Active: 0     | Failed: 9     | Success: 0.0%
-https://t.me/s/freevpnatm                     | Total: 7     | Active: 6     | Failed: 1     | Success: 85.7%
-https://t.me/s/g0dv2ray                       | Total: 9     | Active: 3     | Failed: 6     | Success: 33.3%
-https://t.me/s/game_file2020                  | Total: 13    | Active: 2     | Failed: 11    | Success: 15.4%
-https://t.me/s/getconfigir                    | Total: 19    | Active: 9     | Failed: 10    | Success: 47.4%
-https://t.me/s/gh_v2rayng                     | Total: 15    | Active: 1     | Failed: 14    | Success: 6.7%
-https://t.me/s/golestan_vpn                   | Total: 12    | Active: 2     | Failed: 10    | Success: 16.7%
-https://t.me/s/gozargah_azadi                 | Total: 13    | Active: 6     | Failed: 7     | Success: 46.2%
-https://t.me/s/hack_androidapp1               | Total: 12    | Active: 2     | Failed: 10    | Success: 16.7%
-https://t.me/s/hamedvpns                      | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/hooshemasnui                   | Total: 11    | Active: 1     | Failed: 10    | Success: 9.1%
-https://t.me/s/hoshmasnoiyfarsi               | Total: 9     | Active: 0     | Failed: 9     | Success: 0.0%
-https://t.me/s/huiguo62                       | Total: 4     | Active: 1     | Failed: 3     | Success: 25.0%
-https://t.me/s/idigitalz                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/info_2it_channel               | Total: 11    | Active: 5     | Failed: 6     | Success: 45.5%
-https://t.me/s/ip_cf_config                   | Total: 3     | Active: 1     | Failed: 2     | Success: 33.3%
-https://t.me/s/ipv2rayng                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/iran_v2ray1                    | Total: 14    | Active: 3     | Failed: 11    | Success: 21.4%
-https://t.me/s/jiedianf                       | Total: 4     | Active: 1     | Failed: 3     | Success: 25.0%
-https://t.me/s/jiedianssr                     | Total: 4     | Active: 1     | Failed: 3     | Success: 25.0%
-https://t.me/s/jiujied                        | Total: 6     | Active: 2     | Failed: 4     | Success: 33.3%
-https://t.me/s/jokerrvpn                      | Total: 3     | Active: 0     | Failed: 3     | Success: 0.0%
-https://t.me/s/juzibaipiao                    | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/kafing_2                       | Total: 12    | Active: 3     | Failed: 9     | Success: 25.0%
-https://t.me/s/kanfig_majani                  | Total: 16    | Active: 2     | Failed: 14    | Success: 12.5%
-https://t.me/s/kingofilter                    | Total: 18    | Active: 1     | Failed: 17    | Success: 5.6%
-https://t.me/s/lexernet                       | Total: 14    | Active: 0     | Failed: 14    | Success: 0.0%
-https://t.me/s/lranonline_new                 | Total: 10    | Active: 3     | Failed: 7     | Success: 30.0%
-https://t.me/s/lrnbymaa                       | Total: 14    | Active: 1     | Failed: 13    | Success: 7.1%
-https://t.me/s/m_vipv2ray                     | Total: 15    | Active: 1     | Failed: 14    | Success: 6.7%
-https://t.me/s/mahan_ping                     | Total: 10    | Active: 1     | Failed: 9     | Success: 10.0%
-https://t.me/s/mahanfix                       | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/manzariyeh_rasht               | Total: 14    | Active: 6     | Failed: 8     | Success: 42.9%
-https://t.me/s/mehrosaboran                   | Total: 3     | Active: 1     | Failed: 2     | Success: 33.3%
-https://t.me/s/meli_proxyy                    | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/melov2ray                      | Total: 20    | Active: 3     | Failed: 17    | Success: 15.0%
-https://t.me/s/moft_vpn                       | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/moftinet                       | Total: 17    | Active: 6     | Failed: 11    | Success: 35.3%
-https://t.me/s/mowjproxy                      | Total: 6     | Active: 2     | Failed: 4     | Success: 33.3%
-https://t.me/s/mpproxy                        | Total: 14    | Active: 0     | Failed: 14    | Success: 0.0%
-https://t.me/s/msv2flyng                      | Total: 3     | Active: 0     | Failed: 3     | Success: 0.0%
-https://t.me/s/mtproxy22_v2ray                | Total: 17    | Active: 10    | Failed: 7     | Success: 58.8%
-https://t.me/s/mxv2ray                        | Total: 11    | Active: 1     | Failed: 10    | Success: 9.1%
-https://t.me/s/netaccount                     | Total: 12    | Active: 5     | Failed: 7     | Success: 41.7%
-https://t.me/s/netfreedom0                    | Total: 4     | Active: 2     | Failed: 2     | Success: 50.0%
-https://t.me/s/netmellianti                   | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/nicolv2ray                     | Total: 20    | Active: 1     | Failed: 19    | Success: 5.0%
-https://t.me/s/nim_vpn_ir                     | Total: 18    | Active: 0     | Failed: 18    | Success: 0.0%
-https://t.me/s/nofiltering2                   | Total: 20    | Active: 1     | Failed: 16    | Success: 5.9%
-https://t.me/s/noviin_tel                     | Total: 1     | Active: 0     | Failed: 1     | Success: 0.0%
-https://t.me/s/nufilter                       | Total: 10    | Active: 1     | Failed: 9     | Success: 10.0%
-https://t.me/s/ohvpn                          | Total: 11    | Active: 1     | Failed: 10    | Success: 9.1%
-https://t.me/s/outline_ir                     | Total: 14    | Active: 6     | Failed: 8     | Success: 42.9%
-https://t.me/s/outline_vpn                    | Total: 16    | Active: 0     | Failed: 16    | Success: 0.0%
-https://t.me/s/outlinereleasedkey             | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/parsproxy_ir                   | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/privatevpns                    | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/proxy_kafee                    | Total: 12    | Active: 1     | Failed: 11    | Success: 8.3%
-https://t.me/s/proxy_mtproto_vpns_free        | Total: 7     | Active: 1     | Failed: 6     | Success: 14.3%
-https://t.me/s/proxyandvpnofficial1           | Total: 13    | Active: 5     | Failed: 8     | Success: 38.5%
-https://t.me/s/proxycrone                     | Total: 11    | Active: 0     | Failed: 11    | Success: 0.0%
-https://t.me/s/proxygodratmand                | Total: 6     | Active: 1     | Failed: 4     | Success: 20.0%
-https://t.me/s/proxyy                         | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/prrofile_purple                | Total: 13    | Active: 0     | Failed: 13    | Success: 0.0%
-https://t.me/s/psiphonf                       | Total: 13    | Active: 3     | Failed: 10    | Success: 23.1%
-https://t.me/s/rayanconf                      | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/rsv2ray                        | Total: 10    | Active: 2     | Failed: 8     | Success: 20.0%
-https://t.me/s/saferoadnet                    | Total: 7     | Active: 1     | Failed: 6     | Success: 14.3%
-https://t.me/s/satellitenewspersian           | Total: 20    | Active: 0     | Failed: 20    | Success: 0.0%
-https://t.me/s/selinc                         | Total: 16    | Active: 5     | Failed: 11    | Success: 31.2%
-https://t.me/s/serversiran11                  | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/sezar_sec                      | Total: 4     | Active: 1     | Failed: 3     | Success: 25.0%
-https://t.me/s/shadowproxy66                  | Total: 10    | Active: 1     | Failed: 9     | Success: 10.0%
-https://t.me/s/shadowsockskeys                | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/skivpn                         | Total: 19    | Active: 2     | Failed: 17    | Success: 10.5%
-https://t.me/s/speedconfig00                  | Total: 15    | Active: 0     | Failed: 15    | Success: 0.0%
-https://t.me/s/spikevpn                       | Total: 20    | Active: 0     | Failed: 20    | Success: 0.0%
-https://t.me/s/ssrsub                         | Total: 4     | Active: 0     | Failed: 4     | Success: 0.0%
-https://t.me/s/summertimeus                   | Total: 9     | Active: 2     | Failed: 7     | Success: 22.2%
-https://t.me/s/surfboardv2ray                 | Total: 9     | Active: 4     | Failed: 5     | Success: 44.4%
-https://t.me/s/tgvpn6                         | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/tobevasl                       | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/trueproxy                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/v222ray                        | Total: 6     | Active: 0     | Failed: 6     | Success: 0.0%
-https://t.me/s/v2aryng_vpn                    | Total: 12    | Active: 1     | Failed: 11    | Success: 8.3%
-https://t.me/s/v2mystery                      | Total: 18    | Active: 2     | Failed: 16    | Success: 11.1%
-https://t.me/s/v2pedia                        | Total: 7     | Active: 1     | Failed: 6     | Success: 14.3%
-https://t.me/s/v2ra_ng_iran                   | Total: 17    | Active: 1     | Failed: 16    | Success: 5.9%
-https://t.me/s/v2ray1_ng                      | Total: 18    | Active: 3     | Failed: 15    | Success: 16.7%
-https://t.me/s/v2ray313                       | Total: 20    | Active: 3     | Failed: 17    | Success: 15.0%
-https://t.me/s/v2ray_cartel                   | Total: 15    | Active: 2     | Failed: 13    | Success: 13.3%
-https://t.me/s/v2ray_collector                | Total: 19    | Active: 9     | Failed: 10    | Success: 47.4%
-https://t.me/s/v2ray_configs_pool             | Total: 11    | Active: 1     | Failed: 10    | Success: 9.1%
-https://t.me/s/v2ray_extractor                | Total: 12    | Active: 6     | Failed: 6     | Success: 50.0%
-https://t.me/s/v2ray_free_conf                | Total: 5     | Active: 0     | Failed: 5     | Success: 0.0%
-https://t.me/s/v2ray_ng                       | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/v2ray_official                 | Total: 17    | Active: 4     | Failed: 13    | Success: 23.5%
-https://t.me/s/v2ray_onli                     | Total: 16    | Active: 1     | Failed: 15    | Success: 6.2%
-https://t.me/s/v2ray_phoenix                  | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/v2ray_sub                      | Total: 15    | Active: 3     | Failed: 12    | Success: 20.0%
-https://t.me/s/v2ray_v_vpn                    | Total: 15    | Active: 8     | Failed: 7     | Success: 53.3%
-https://t.me/s/v2ray_vmess_free               | Total: 14    | Active: 0     | Failed: 14    | Success: 0.0%
-https://t.me/s/v2raych                        | Total: 13    | Active: 1     | Failed: 12    | Success: 7.7%
-https://t.me/s/v2raycrow                      | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/v2rayfree                      | Total: 7     | Active: 1     | Failed: 6     | Success: 14.3%
-https://t.me/s/v2raying                       | Total: 16    | Active: 3     | Failed: 13    | Success: 18.8%
-https://t.me/s/v2rayn5                        | Total: 19    | Active: 8     | Failed: 11    | Success: 42.1%
-https://t.me/s/v2rayng14                      | Total: 15    | Active: 1     | Failed: 14    | Success: 6.7%
-https://t.me/s/v2rayng3                       | Total: 11    | Active: 0     | Failed: 11    | Success: 0.0%
-https://t.me/s/v2rayng_1378                   | Total: 15    | Active: 6     | Failed: 9     | Success: 40.0%
-https://t.me/s/v2rayng_fars                   | Total: 14    | Active: 1     | Failed: 13    | Success: 7.1%
-https://t.me/s/v2rayngn                       | Total: 17    | Active: 0     | Failed: 17    | Success: 0.0%
-https://t.me/s/v2rayngrit                     | Total: 14    | Active: 1     | Failed: 13    | Success: 7.1%
-https://t.me/s/v2rayngte                      | Total: 19    | Active: 2     | Failed: 17    | Success: 10.5%
-https://t.me/s/v2rayngvpn                     | Total: 16    | Active: 2     | Failed: 14    | Success: 12.5%
-https://t.me/s/v2rayngvpn_1                   | Total: 8     | Active: 0     | Failed: 8     | Success: 0.0%
-https://t.me/s/v2rayopen                      | Total: 17    | Active: 4     | Failed: 13    | Success: 23.5%
-https://t.me/s/v2rayprotocol                  | Total: 13    | Active: 2     | Failed: 11    | Success: 15.4%
-https://t.me/s/v2rayproxy                     | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/v2raytg                        | Total: 7     | Active: 0     | Failed: 7     | Success: 0.0%
-https://t.me/s/v2rayweb                       | Total: 11    | Active: 0     | Failed: 11    | Success: 0.0%
-https://t.me/s/v2ry_proxy                     | Total: 12    | Active: 0     | Failed: 12    | Success: 0.0%
-https://t.me/s/v2ryvip                        | Total: 14    | Active: 4     | Failed: 10    | Success: 28.6%
-https://t.me/s/v2source                       | Total: 18    | Active: 2     | Failed: 16    | Success: 11.1%
-https://t.me/s/v2trayproxy                    | Total: 19    | Active: 5     | Failed: 14    | Success: 26.3%
-https://t.me/s/v_2rayng0                      | Total: 10    | Active: 0     | Failed: 10    | Success: 0.0%
-https://t.me/s/vaynora                        | Total: 16    | Active: 7     | Failed: 9     | Success: 43.8%
-https://t.me/s/vipoutline                     | Total: 13    | Active: 0     | Failed: 13    | Success: 0.0%
-https://t.me/s/vipv2rayngnp                   | Total: 13    | Active: 2     | Failed: 11    | Success: 15.4%
-https://t.me/s/vistav2ray                     | Total: 14    | Active: 2     | Failed: 12    | Success: 14.3%
-https://t.me/s/viturey                        | Total: 19    | Active: 11    | Failed: 8     | Success: 57.9%
-https://t.me/s/vlessconfig                    | Total: 14    | Active: 2     | Failed: 12    | Success: 14.3%
-https://t.me/s/vmesc                          | Total: 16    | Active: 10    | Failed: 6     | Success: 62.5%
-https://t.me/s/vmess_ir                       | Total: 16    | Active: 6     | Failed: 10    | Success: 37.5%
-https://t.me/s/vmesskhodam                    | Total: 18    | Active: 2     | Failed: 16    | Success: 11.1%
-https://t.me/s/vpn_ioss                       | Total: 7     | Active: 0     | Failed: 7     | Success: 0.0%
-https://t.me/s/vpn_mafia                      | Total: 12    | Active: 1     | Failed: 11    | Success: 8.3%
-https://t.me/s/vpn_ocean                      | Total: 9     | Active: 1     | Failed: 8     | Success: 11.1%
-https://t.me/s/vpnaloo                        | Total: 18    | Active: 1     | Failed: 17    | Success: 5.6%
-https://t.me/s/vpnfail_v2ray                  | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/vpnod                          | Total: 11    | Active: 0     | Failed: 11    | Success: 0.0%
-https://t.me/s/vpnplusee_free                 | Total: 20    | Active: 2     | Failed: 18    | Success: 10.0%
-https://t.me/s/vpnstorefast                   | Total: 12    | Active: 0     | Failed: 12    | Success: 0.0%
-https://t.me/s/vpntrt                         | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-https://t.me/s/vpntwitt                       | Total: 9     | Active: 0     | Failed: 9     | Success: 0.0%
-https://t.me/s/vpnv2rayngv                    | Total: 19    | Active: 1     | Failed: 18    | Success: 5.3%
-https://t.me/s/vpnv2raytop                    | Total: 6     | Active: 0     | Failed: 6     | Success: 0.0%
-https://t.me/s/weepeen                        | Total: 15    | Active: 0     | Failed: 15    | Success: 0.0%
-https://t.me/s/zerobaipiao                    | Total: 0     | Active: 0     | Failed: 0     | Success: 0.0%
-
-Final Ranking by Success Rate (then Active, then Name):
 Channel                                       | Total  | Active | Failed | Success%
-https://t.me/s/argo_vpn1                      | 8      | 8      | 0      |  100.0%
-https://t.me/s/freevpnatm                     | 7      | 6      | 1      |   85.7%
-https://t.me/s/antifilterjadid                | 6      | 4      | 2      |   66.7%
-https://t.me/s/vmesc                          | 16     | 10     | 6      |   62.5%
-https://t.me/s/mtproxy22_v2ray                | 17     | 10     | 7      |   58.8%
-https://t.me/s/viturey                        | 19     | 11     | 8      |   57.9%
-https://t.me/s/freakconfig                    | 13     | 7      | 6      |   53.8%
-https://t.me/s/v2ray_v_vpn                    | 15     | 8      | 7      |   53.3%
-https://t.me/s/customv2ray                    | 14     | 7      | 7      |   50.0%
-https://t.me/s/v2ray_extractor                | 12     | 6      | 6      |   50.0%
-https://t.me/s/netfreedom0                    | 4      | 2      | 2      |   50.0%
-https://t.me/s/getconfigir                    | 19     | 9      | 10     |   47.4%
-https://t.me/s/v2ray_collector                | 19     | 9      | 10     |   47.4%
-https://t.me/s/connect_sho                    | 13     | 6      | 7      |   46.2%
+https://t.me/s/freevpnatm                     | 7      | 7      | 0      |  100.0%
+https://t.me/s/v2ray_collector                | 20     | 15     | 5      |   75.0%
+https://t.me/s/mtproxy22_v2ray                | 17     | 12     | 5      |   70.6%
+https://t.me/s/vmesc                          | 17     | 12     | 5      |   70.6%
+https://t.me/s/customv2ray                    | 12     | 8      | 4      |   66.7%
+https://t.me/s/outline_ir                     | 17     | 11     | 6      |   64.7%
+https://t.me/s/v2ray_v_vpn                    | 16     | 10     | 6      |   62.5%
+https://t.me/s/info_2it_channel               | 13     | 8      | 5      |   61.5%
+https://t.me/s/connect_sho                    | 17     | 10     | 7      |   58.8%
+https://t.me/s/freakconfig                    | 14     | 8      | 6      |   57.1%
+https://t.me/s/v2rayn5                        | 18     | 9      | 9      |   50.0%
+https://t.me/s/sezar_sec                      | 4      | 2      | 2      |   50.0%
+https://t.me/s/viturey                        | 19     | 9      | 10     |   47.4%
+https://t.me/s/vaynora                        | 17     | 8      | 9      |   47.1%
+https://t.me/s/config_proxy                   | 15     | 7      | 8      |   46.7%
 https://t.me/s/gozargah_azadi                 | 13     | 6      | 7      |   46.2%
-https://t.me/s/info_2it_channel               | 11     | 5      | 6      |   45.5%
 https://t.me/s/surfboardv2ray                 | 9      | 4      | 5      |   44.4%
-https://t.me/s/vaynora                        | 16     | 7      | 9      |   43.8%
-https://t.me/s/manzariyeh_rasht               | 14     | 6      | 8      |   42.9%
-https://t.me/s/outline_ir                     | 14     | 6      | 8      |   42.9%
-https://t.me/s/v2rayn5                        | 19     | 8      | 11     |   42.1%
-https://t.me/s/netaccount                     | 12     | 5      | 7      |   41.7%
-https://t.me/s/v2rayng_1378                   | 15     | 6      | 9      |   40.0%
-https://t.me/s/configms                       | 13     | 5      | 8      |   38.5%
-https://t.me/s/proxyandvpnofficial1           | 13     | 5      | 8      |   38.5%
-https://t.me/s/vmess_ir                       | 16     | 6      | 10     |   37.5%
-https://t.me/s/moftinet                       | 17     | 6      | 11     |   35.3%
-https://t.me/s/dailyv2ry                      | 20     | 7      | 13     |   35.0%
-https://t.me/s/g0dv2ray                       | 9      | 3      | 6      |   33.3%
-https://t.me/s/jiujied                        | 6      | 2      | 4      |   33.3%
-https://t.me/s/mowjproxy                      | 6      | 2      | 4      |   33.3%
-https://t.me/s/ip_cf_config                   | 3      | 1      | 2      |   33.3%
-https://t.me/s/mehrosaboran                   | 3      | 1      | 2      |   33.3%
-https://t.me/s/selinc                         | 16     | 5      | 11     |   31.2%
-https://t.me/s/lranonline_new                 | 10     | 3      | 7      |   30.0%
-https://t.me/s/config_proxy                   | 14     | 4      | 10     |   28.6%
-https://t.me/s/v2ryvip                        | 14     | 4      | 10     |   28.6%
-https://t.me/s/entrynet                       | 7      | 2      | 5      |   28.6%
-https://t.me/s/asak_vpn                       | 11     | 3      | 8      |   27.3%
-https://t.me/s/v2trayproxy                    | 19     | 5      | 14     |   26.3%
-https://t.me/s/kafing_2                       | 12     | 3      | 9      |   25.0%
-https://t.me/s/NamiraNet                      | 8      | 2      | 6      |   25.0%
-https://t.me/s/falcunargo                     | 8      | 2      | 6      |   25.0%
-https://t.me/s/huiguo62                       | 4      | 1      | 3      |   25.0%
-https://t.me/s/jiedianf                       | 4      | 1      | 3      |   25.0%
-https://t.me/s/jiedianssr                     | 4      | 1      | 3      |   25.0%
-https://t.me/s/sezar_sec                      | 4      | 1      | 3      |   25.0%
-https://t.me/s/v2ray_official                 | 17     | 4      | 13     |   23.5%
-https://t.me/s/v2rayopen                      | 17     | 4      | 13     |   23.5%
-https://t.me/s/psiphonf                       | 13     | 3      | 10     |   23.1%
-https://t.me/s/configfa                       | 9      | 2      | 7      |   22.2%
-https://t.me/s/summertimeus                   | 9      | 2      | 7      |   22.2%
-https://t.me/s/iran_v2ray1                    | 14     | 3      | 11     |   21.4%
+https://t.me/s/v2rayng_1378                   | 16     | 7      | 9      |   43.8%
+https://t.me/s/v2raying                       | 14     | 6      | 8      |   42.9%
+https://t.me/s/v2ray_extractor                | 12     | 5      | 7      |   41.7%
+https://t.me/s/selinc                         | 16     | 6      | 10     |   37.5%
+https://t.me/s/v2ray_configs_pool             | 16     | 6      | 10     |   37.5%
+https://t.me/s/NamiraNet                      | 19     | 7      | 12     |   36.8%
+https://t.me/s/vmess_ir                       | 18     | 6      | 12     |   33.3%
+https://t.me/s/antifilterjadid                | 6      | 2      | 4      |   33.3%
+https://t.me/s/proxy_mtproto_vpns_free        | 6      | 2      | 4      |   33.3%
+https://t.me/s/v2rayfree                      | 6      | 2      | 4      |   33.3%
+https://t.me/s/iran_v2ray1                    | 16     | 5      | 11     |   31.2%
+https://t.me/s/moftinet                       | 16     | 5      | 11     |   31.2%
+https://t.me/s/configfa                       | 13     | 4      | 9      |   30.8%
+https://t.me/s/v2raych                        | 13     | 4      | 9      |   30.8%
+https://t.me/s/entrynet                       | 14     | 4      | 10     |   28.6%
+https://t.me/s/vlessconfig                    | 14     | 4      | 10     |   28.6%
+https://t.me/s/proxyandvpnofficial1           | 11     | 3      | 8      |   27.3%
+https://t.me/s/configms                       | 16     | 4      | 11     |   26.7%
+https://t.me/s/vpnv2rayngv                    | 19     | 5      | 14     |   26.3%
+https://t.me/s/shadowproxy66                  | 12     | 3      | 9      |   25.0%
+https://t.me/s/v2ray_cartel                   | 12     | 3      | 9      |   25.0%
+https://t.me/s/netaccount                     | 9      | 2      | 7      |   22.2%
+https://t.me/s/free_serverir                  | 19     | 4      | 15     |   21.1%
+https://t.me/s/lranonline_new                 | 20     | 4      | 16     |   20.0%
 https://t.me/s/club_profsor                   | 15     | 3      | 12     |   20.0%
-https://t.me/s/v2ray_sub                      | 15     | 3      | 12     |   20.0%
-https://t.me/s/azarbayjab1                    | 10     | 2      | 8      |   20.0%
-https://t.me/s/rsv2ray                        | 10     | 2      | 8      |   20.0%
+https://t.me/s/v2rayng_fars                   | 15     | 3      | 12     |   20.0%
+https://t.me/s/v2rayngrit                     | 10     | 2      | 8      |   20.0%
+https://t.me/s/jiujied                        | 5      | 1      | 4      |   20.0%
+https://t.me/s/netfreedom0                    | 5      | 1      | 4      |   20.0%
 https://t.me/s/proxygodratmand                | 6      | 1      | 4      |   20.0%
-https://t.me/s/v2raying                       | 16     | 3      | 13     |   18.8%
-https://t.me/s/confing_chanel                 | 17     | 3      | 14     |   17.6%
-https://t.me/s/v2ray1_ng                      | 18     | 3      | 15     |   16.7%
-https://t.me/s/golestan_vpn                   | 12     | 2      | 10     |   16.7%
-https://t.me/s/hack_androidapp1               | 12     | 2      | 10     |   16.7%
+https://t.me/s/manzariyeh_rasht               | 16     | 3      | 13     |   18.8%
+https://t.me/s/v2ryvip                        | 16     | 3      | 13     |   18.8%
+https://t.me/s/v2ray1_ng                      | 17     | 3      | 14     |   17.6%
+https://t.me/s/v2trayproxy                    | 17     | 3      | 14     |   17.6%
+https://t.me/s/configshubplus                 | 18     | 3      | 15     |   16.7%
+https://t.me/s/v2rayngte                      | 12     | 2      | 10     |   16.7%
+https://t.me/s/v2rayprotocol                  | 12     | 2      | 10     |   16.7%
+https://t.me/s/confing_chanel                 | 19     | 3      | 16     |   15.8%
+https://t.me/s/dailyv2ry                      | 19     | 3      | 16     |   15.8%
 https://t.me/s/game_file2020                  | 13     | 2      | 11     |   15.4%
-https://t.me/s/v2rayprotocol                  | 13     | 2      | 11     |   15.4%
-https://t.me/s/vipv2rayngnp                   | 13     | 2      | 11     |   15.4%
-https://t.me/s/melov2ray                      | 20     | 3      | 17     |   15.0%
-https://t.me/s/v2ray313                       | 20     | 3      | 17     |   15.0%
-https://t.me/s/vistav2ray                     | 14     | 2      | 12     |   14.3%
-https://t.me/s/vlessconfig                    | 14     | 2      | 12     |   14.3%
-https://t.me/s/proxy_mtproto_vpns_free        | 7      | 1      | 6      |   14.3%
-https://t.me/s/saferoadnet                    | 7      | 1      | 6      |   14.3%
-https://t.me/s/v2pedia                        | 7      | 1      | 6      |   14.3%
-https://t.me/s/v2rayfree                      | 7      | 1      | 6      |   14.3%
-https://t.me/s/v2ray_cartel                   | 15     | 2      | 13     |   13.3%
-https://t.me/s/configpluse                    | 16     | 2      | 14     |   12.5%
-https://t.me/s/kanfig_majani                  | 16     | 2      | 14     |   12.5%
+https://t.me/s/vmesskhodam                    | 20     | 3      | 17     |   15.0%
+https://t.me/s/falcunargo                     | 7      | 1      | 6      |   14.3%
+https://t.me/s/outline_vpn                    | 16     | 2      | 14     |   12.5%
 https://t.me/s/v2rayngvpn                     | 16     | 2      | 14     |   12.5%
-https://t.me/s/expressvpn_420                 | 17     | 2      | 15     |   11.8%
-https://t.me/s/free_serverir                  | 17     | 2      | 15     |   11.8%
-https://t.me/s/v2mystery                      | 18     | 2      | 16     |   11.1%
-https://t.me/s/v2source                       | 18     | 2      | 16     |   11.1%
-https://t.me/s/vmesskhodam                    | 18     | 2      | 16     |   11.1%
-https://t.me/s/eliteproxyv2                   | 9      | 1      | 8      |   11.1%
+https://t.me/s/vipv2rayngnp                   | 8      | 1      | 7      |   12.5%
+https://t.me/s/dnsforyou                      | 17     | 2      | 15     |   11.8%
+https://t.me/s/vpnaloo                        | 18     | 2      | 16     |   11.1%
+https://t.me/s/azarbayjab1                    | 9      | 1      | 8      |   11.1%
+https://t.me/s/summertimeus                   | 9      | 1      | 8      |   11.1%
 https://t.me/s/vpn_ocean                      | 9      | 1      | 8      |   11.1%
 https://t.me/s/skivpn                         | 19     | 2      | 17     |   10.5%
-https://t.me/s/v2rayngte                      | 19     | 2      | 17     |   10.5%
-https://t.me/s/vpnplusee_free                 | 20     | 2      | 18     |   10.0%
-https://t.me/s/mahan_ping                     | 10     | 1      | 9      |   10.0%
-https://t.me/s/nufilter                       | 10     | 1      | 9      |   10.0%
-https://t.me/s/shadowproxy66                  | 10     | 1      | 9      |   10.0%
+https://t.me/s/melov2ray                      | 20     | 2      | 18     |   10.0%
+https://t.me/s/rsv2ray                        | 10     | 1      | 9      |   10.0%
 https://t.me/s/dailytek                       | 11     | 1      | 10     |    9.1%
-https://t.me/s/hooshemasnui                   | 11     | 1      | 10     |    9.1%
-https://t.me/s/mxv2ray                        | 11     | 1      | 10     |    9.1%
-https://t.me/s/ohvpn                          | 11     | 1      | 10     |    9.1%
-https://t.me/s/v2ray_configs_pool             | 11     | 1      | 10     |    9.1%
-https://t.me/s/proxy_kafee                    | 12     | 1      | 11     |    8.3%
-https://t.me/s/v2aryng_vpn                    | 12     | 1      | 11     |    8.3%
-https://t.me/s/vpn_mafia                      | 12     | 1      | 11     |    8.3%
-https://t.me/s/filtershekan_channel           | 13     | 1      | 12     |    7.7%
-https://t.me/s/v2raych                        | 13     | 1      | 12     |    7.7%
+https://t.me/s/mowjproxy                      | 11     | 1      | 10     |    9.1%
+https://t.me/s/proxy_kafee                    | 11     | 1      | 10     |    9.1%
+https://t.me/s/vpn_mafia                      | 11     | 1      | 10     |    9.1%
+https://t.me/s/g0dv2ray                       | 12     | 1      | 11     |    8.3%
+https://t.me/s/hack_androidapp1               | 12     | 1      | 11     |    8.3%
+https://t.me/s/golestan_vpn                   | 13     | 1      | 12     |    7.7%
+https://t.me/s/m_vipv2ray                     | 13     | 1      | 12     |    7.7%
+https://t.me/s/ohvpn                          | 13     | 1      | 12     |    7.7%
+https://t.me/s/v2rayng14                      | 13     | 1      | 12     |    7.7%
 https://t.me/s/deamnet_proxy                  | 14     | 1      | 13     |    7.1%
+https://t.me/s/kafing_2                       | 14     | 1      | 13     |    7.1%
 https://t.me/s/lrnbymaa                       | 14     | 1      | 13     |    7.1%
-https://t.me/s/v2rayng_fars                   | 14     | 1      | 13     |    7.1%
-https://t.me/s/v2rayngrit                     | 14     | 1      | 13     |    7.1%
-https://t.me/s/gh_v2rayng                     | 15     | 1      | 14     |    6.7%
-https://t.me/s/m_vipv2ray                     | 15     | 1      | 14     |    6.7%
-https://t.me/s/v2rayng14                      | 15     | 1      | 14     |    6.7%
-https://t.me/s/dnsforyou                      | 16     | 1      | 15     |    6.2%
-https://t.me/s/fast_2ray                      | 16     | 1      | 15     |    6.2%
-https://t.me/s/flystoreir                     | 16     | 1      | 15     |    6.2%
-https://t.me/s/v2ray_onli                     | 16     | 1      | 15     |    6.2%
-https://t.me/s/customvpnserver                | 17     | 1      | 16     |    5.9%
-https://t.me/s/farahvpn                       | 17     | 1      | 16     |    5.9%
+https://t.me/s/mpproxy                        | 14     | 1      | 13     |    7.1%
+https://t.me/s/configpluse                    | 15     | 1      | 14     |    6.7%
+https://t.me/s/filtershekan_channel           | 15     | 1      | 14     |    6.7%
+https://t.me/s/v2aryng_vpn                    | 15     | 1      | 14     |    6.7%
+https://t.me/s/v2ray_official                 | 15     | 1      | 14     |    6.7%
+https://t.me/s/vistav2ray                     | 15     | 1      | 14     |    6.7%
+https://t.me/s/speedconfig00                  | 16     | 1      | 15     |    6.2%
 https://t.me/s/free1_vpn                      | 17     | 1      | 16     |    5.9%
-https://t.me/s/nofiltering2                   | 20     | 1      | 16     |    5.9%
-https://t.me/s/v2ra_ng_iran                   | 17     | 1      | 16     |    5.9%
-https://t.me/s/kingofilter                    | 18     | 1      | 17     |    5.6%
-https://t.me/s/vpnaloo                        | 18     | 1      | 17     |    5.6%
-https://t.me/s/vpnv2rayngv                    | 19     | 1      | 18     |    5.3%
-https://t.me/s/nicolv2ray                     | 20     | 1      | 19     |    5.0%
-https://t.me/s/ai_duet                        | 17     | 0      | 17     |    0.0%
+https://t.me/s/kanfig_majani                  | 17     | 1      | 16     |    5.9%
+https://t.me/s/flystoreir                     | 18     | 1      | 17     |    5.6%
+https://t.me/s/v2source                       | 18     | 1      | 17     |    5.6%
+https://t.me/s/vpnplusee_free                 | 18     | 1      | 17     |    5.6%
+https://t.me/s/prrofile_purple                | 19     | 1      | 18     |    5.3%
+https://t.me/s/v2mystery                      | 19     | 1      | 18     |    5.3%
+https://t.me/s/filter_breaker                 | 20     | 1      | 19     |    5.0%
+https://t.me/s/getconfigir                    | 20     | 1      | 19     |    5.0%
 https://t.me/s/appsooner                      | 17     | 0      | 17     |    0.0%
-https://t.me/s/argooo_vpn                     | 18     | 0      | 18     |    0.0%
-https://t.me/s/artemisvpn1                    | 15     | 0      | 15     |    0.0%
-https://t.me/s/awlix_ir                       | 13     | 0      | 13     |    0.0%
-https://t.me/s/bestiivpn                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/betv2ray                       | 2      | 0      | 2      |    0.0%
-https://t.me/s/cav2ray                        | 19     | 0      | 19     |    0.0%
-https://t.me/s/configfast                     | 2      | 0      | 2      |    0.0%
-https://t.me/s/configshubplus                 | 10     | 0      | 10     |    0.0%
-https://t.me/s/configv2rayforfree             | 10     | 0      | 10     |    0.0%
-https://t.me/s/confingv2raayng                | 7      | 0      | 7      |    0.0%
-https://t.me/s/directvpn                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/fastkanfig                     | 8      | 0      | 8      |    0.0%
-https://t.me/s/filter_breaker                 | 18     | 0      | 18     |    0.0%
-https://t.me/s/free1ss                        | 0      | 0      | 0      |    0.0%
-https://t.me/s/free4allvpn                    | 2      | 0      | 2      |    0.0%
-https://t.me/s/free_nettm                     | 0      | 0      | 0      |    0.0%
-https://t.me/s/free_proxy_001                 | 0      | 0      | 0      |    0.0%
-https://t.me/s/free_vpn02                     | 13     | 0      | 13     |    0.0%
-https://t.me/s/freeiranianv2rey               | 14     | 0      | 14     |    0.0%
-https://t.me/s/freevirgoolnet                 | 9      | 0      | 9      |    0.0%
-https://t.me/s/hamedvpns                      | 10     | 0      | 10     |    0.0%
-https://t.me/s/hoshmasnoiyfarsi               | 9      | 0      | 9      |    0.0%
-https://t.me/s/idigitalz                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/ipv2rayng                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/jokerrvpn                      | 3      | 0      | 3      |    0.0%
-https://t.me/s/juzibaipiao                    | 0      | 0      | 0      |    0.0%
-https://t.me/s/lexernet                       | 14     | 0      | 14     |    0.0%
-https://t.me/s/mahanfix                       | 0      | 0      | 0      |    0.0%
-https://t.me/s/meli_proxyy                    | 0      | 0      | 0      |    0.0%
-https://t.me/s/moft_vpn                       | 0      | 0      | 0      |    0.0%
-https://t.me/s/mpproxy                        | 14     | 0      | 14     |    0.0%
-https://t.me/s/msv2flyng                      | 3      | 0      | 3      |    0.0%
-https://t.me/s/netmellianti                   | 17     | 0      | 17     |    0.0%
-https://t.me/s/nim_vpn_ir                     | 18     | 0      | 18     |    0.0%
-https://t.me/s/noviin_tel                     | 1      | 0      | 1      |    0.0%
-https://t.me/s/outline_vpn                    | 16     | 0      | 16     |    0.0%
-https://t.me/s/outlinereleasedkey             | 0      | 0      | 0      |    0.0%
-https://t.me/s/parsproxy_ir                   | 0      | 0      | 0      |    0.0%
-https://t.me/s/privatevpns                    | 0      | 0      | 0      |    0.0%
-https://t.me/s/proxycrone                     | 11     | 0      | 11     |    0.0%
-https://t.me/s/proxyy                         | 0      | 0      | 0      |    0.0%
-https://t.me/s/prrofile_purple                | 13     | 0      | 13     |    0.0%
-https://t.me/s/rayanconf                      | 17     | 0      | 17     |    0.0%
-https://t.me/s/satellitenewspersian           | 20     | 0      | 20     |    0.0%
-https://t.me/s/serversiran11                  | 10     | 0      | 10     |    0.0%
-https://t.me/s/shadowsockskeys                | 0      | 0      | 0      |    0.0%
-https://t.me/s/speedconfig00                  | 15     | 0      | 15     |    0.0%
-https://t.me/s/spikevpn                       | 20     | 0      | 20     |    0.0%
-https://t.me/s/ssrsub                         | 4      | 0      | 4      |    0.0%
-https://t.me/s/tgvpn6                         | 0      | 0      | 0      |    0.0%
-https://t.me/s/tobevasl                       | 17     | 0      | 17     |    0.0%
-https://t.me/s/trueproxy                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/v222ray                        | 6      | 0      | 6      |    0.0%
-https://t.me/s/v2ray_free_conf                | 5      | 0      | 5      |    0.0%
-https://t.me/s/v2ray_ng                       | 10     | 0      | 10     |    0.0%
-https://t.me/s/v2ray_phoenix                  | 0      | 0      | 0      |    0.0%
-https://t.me/s/v2ray_vmess_free               | 14     | 0      | 14     |    0.0%
-https://t.me/s/v2raycrow                      | 0      | 0      | 0      |    0.0%
-https://t.me/s/v2rayng3                       | 11     | 0      | 11     |    0.0%
-https://t.me/s/v2rayngn                       | 17     | 0      | 17     |    0.0%
-https://t.me/s/v2rayngvpn_1                   | 8      | 0      | 8      |    0.0%
+https://t.me/s/argo_vpn1                      | 0      | 0      | 0      |    0.0%
+https://t.me/s/artemisvpn1                    | 6      | 0      | 6      |    0.0%
+https://t.me/s/asak_vpn                       | 11     | 0      | 11     |    0.0%
+https://t.me/s/configv2rayforfree             | 11     | 0      | 11     |    0.0%
+https://t.me/s/customvpnserver                | 16     | 0      | 16     |    0.0%
+https://t.me/s/eliteproxyv2                   | 9      | 0      | 9      |    0.0%
+https://t.me/s/expressvpn_420                 | 17     | 0      | 17     |    0.0%
+https://t.me/s/farahvpn                       | 16     | 0      | 16     |    0.0%
+https://t.me/s/fast_2ray                      | 17     | 0      | 17     |    0.0%
+https://t.me/s/gh_v2rayng                     | 16     | 0      | 16     |    0.0%
+https://t.me/s/hooshemasnui                   | 0      | 0      | 0      |    0.0%
+https://t.me/s/huiguo62                       | 3      | 0      | 3      |    0.0%
+https://t.me/s/ip_cf_config                   | 1      | 0      | 1      |    0.0%
+https://t.me/s/jiedianf                       | 3      | 0      | 3      |    0.0%
+https://t.me/s/jiedianssr                     | 3      | 0      | 3      |    0.0%
+https://t.me/s/kingofilter                    | 19     | 0      | 19     |    0.0%
+https://t.me/s/mahan_ping                     | 10     | 0      | 10     |    0.0%
+https://t.me/s/mehrosaboran                   | 3      | 0      | 3      |    0.0%
+https://t.me/s/mxv2ray                        | 11     | 0      | 11     |    0.0%
+https://t.me/s/nicolv2ray                     | 20     | 0      | 20     |    0.0%
+https://t.me/s/nofiltering2                   | 16     | 0      | 14     |    0.0%
+https://t.me/s/nufilter                       | 7      | 0      | 7      |    0.0%
+https://t.me/s/psiphonf                       | 13     | 0      | 13     |    0.0%
+https://t.me/s/saferoadnet                    | 9      | 0      | 9      |    0.0%
+https://t.me/s/v2pedia                        | 7      | 0      | 7      |    0.0%
+https://t.me/s/v2ra_ng_iran                   | 14     | 0      | 14     |    0.0%
+https://t.me/s/v2ray313                       | 19     | 0      | 19     |    0.0%
+https://t.me/s/v2ray_onli                     | 19     | 0      | 19     |    0.0%
+https://t.me/s/v2ray_sub                      | 14     | 0      | 14     |    0.0%
+https://t.me/s/v2rayopen                      | 15     | 0      | 15     |    0.0%
 https://t.me/s/v2rayproxy                     | 0      | 0      | 0      |    0.0%
-https://t.me/s/v2raytg                        | 7      | 0      | 7      |    0.0%
-https://t.me/s/v2rayweb                       | 11     | 0      | 11     |    0.0%
-https://t.me/s/v2ry_proxy                     | 12     | 0      | 12     |    0.0%
-https://t.me/s/v_2rayng0                      | 10     | 0      | 10     |    0.0%
-https://t.me/s/vipoutline                     | 13     | 0      | 13     |    0.0%
 https://t.me/s/vpn_ioss                       | 7      | 0      | 7      |    0.0%
-https://t.me/s/vpnfail_v2ray                  | 0      | 0      | 0      |    0.0%
-https://t.me/s/vpnod                          | 11     | 0      | 11     |    0.0%
-https://t.me/s/vpnstorefast                   | 12     | 0      | 12     |    0.0%
-https://t.me/s/vpntrt                         | 0      | 0      | 0      |    0.0%
-https://t.me/s/vpntwitt                       | 9      | 0      | 9      |    0.0%
-https://t.me/s/vpnv2raytop                    | 6      | 0      | 6      |    0.0%
-https://t.me/s/weepeen                        | 15     | 0      | 15     |    0.0%
-https://t.me/s/zerobaipiao                    | 0      | 0      | 0      |    0.0%
+https://t.me/s/vpnod                          | 12     | 0      | 12     |    0.0%
+satelli-tenewspersian.txt                     | 0      | 0      | 0      |    0.0%

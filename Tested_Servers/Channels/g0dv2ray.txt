@@ -1,3 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 0.78s
-vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#%40V2ray1_Ng | 1.53s
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#@GODV2RAY | 9.14s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#@GODV2RAY | 4.69s

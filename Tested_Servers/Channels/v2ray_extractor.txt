@@ -1,6 +1,5 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40Outline_Vpn%3A%3AFR | 0.71s
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ANL | 0.72s
-vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?security=&encryption=none&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ADE | 0.97s
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%3E%3E%40flyv2ray%3A%3AFI | 1.23s
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#%3E%3E%40Outline_Vpn%3A%3AFR | 1.35s
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40Outline_Vpn%3A%3AFR | 6.72s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray_configs_pool%3A%3AUS | 1.19s
+vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=%2F&security=&encryption=none&type=ws#%3E%3E%40shadowproxy66%3A%3ADE | 2.51s
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2rayNg_madam%3A%3ADE | 2.57s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40v2rayng_fast%3A%3AFR | 3.66s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&type=grpc#%3E%3E%40flyv2ray%3A%3AUS | 11.27s

@@ -1,3 +1,1 @@
-hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#T.me%2FVpn_Mafia%20%F0%9F%87%B7%F0%9F%87%BA
-hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7FR%20%7C%20@V2ray_Collector
 hysteria://108.181.24.77:11512?upmbps=50&downmbps=80&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector

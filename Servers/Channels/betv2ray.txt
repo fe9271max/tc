@@ -1,2 +1,0 @@
-vless://e21789d4-820c-42c9-9729-26fd904e754a@77.110.107.195:28898?mode=auto&path=%2F&security=reality&encryption=none&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&host=fast.com&fp=random&spx=%2F&type=xhttp&sni=yahoo.com&sid=2cb4454d18#t.me%2FBetV2ray%20%286397%29%20DE%20%F0%9F%87%A9%F0%9F%87%AA
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#t.me%2FBetV2ray%20%286395%29%20US%20%F0%9F%87%BA%F0%9F%87%B8

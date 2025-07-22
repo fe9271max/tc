@@ -1,3 +1,0 @@
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40Asak_Vpn%F0%9F%87%B8%F0%9F%87%AC | 0.86s
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 0.87s
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh23v5.hiddendom.shop#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92%AF | 0.98s

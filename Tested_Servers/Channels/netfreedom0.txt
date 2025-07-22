@@ -1,2 +1,1 @@
-vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80/?type=ws&encryption=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20NetFreedom0 | 0.89s
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws&encryption=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20NetFreedom0 | 0.95s
+vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80/?type=ws&encryption=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20NetFreedom0 | 3.10s
