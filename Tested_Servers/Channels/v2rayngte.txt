@@ -1,2 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%DB%B2 | 1.12s
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%DB%B1%DB%B1 | 7.10s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%DB%B3 | 0.53s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%DB%B2 | 1.31s

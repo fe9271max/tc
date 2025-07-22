@@ -1,2 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&mode=gun&security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel | 5.46s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=VpNwS2iJkA.vPbEtHoRvP002.iNfO&type=ws&sni=VpNwS2iJkA.vPbEtHoRvP002.iNfO#%40V2ray_cartel | 6.06s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#napsternetv_ir | 0.55s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#v2ray_cartel | 5.30s

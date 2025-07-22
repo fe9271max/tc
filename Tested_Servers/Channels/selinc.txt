@@ -1,6 +1,5 @@
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40Selinc | 1.21s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 2.59s
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#VIP | 2.74s
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws#%40Selinc | 4.10s
-vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#%40Selinc | 4.15s
-vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk:80?path=%2F&security=none&encryption=none&type=ws#%40Selinc | 6.59s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.51s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%40Selinc | 0.57s
+vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws#%40Selinc | 0.62s
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#VIP | 0.75s
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40Selinc | 1.08s

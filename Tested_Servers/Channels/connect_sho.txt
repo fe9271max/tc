@@ -1,5 +1,6 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# | 1.27s
-vless://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?flow=&path=%2F&type=ws# | 2.53s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc# | 3.50s
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws# | 3.86s
-vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?flow=&path=%2F&type=ws# | 8.50s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# | 0.16s
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=&encryption=none&type=ws# | 1.88s
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp# | 1.94s
+vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws# | 1.95s
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws# | 2.12s
+vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F# | 3.87s

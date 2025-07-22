@@ -1,2 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%40kingofilter%20ALL | 1.61s
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%40kingofilter | 12.71s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%40kingofilter | 2.07s

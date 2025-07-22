@@ -1,5 +1,6 @@
-vless://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#%F0%9F%87%B1%F0%9F%87%BALU%20%7C%20@V2ray_Collector
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=%2FChannel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40VPN
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=%2FChannel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40VPNOD
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#%E2%9C%B1%20%40Viturey%20%E2%9C%B1
+vless://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#%F0%9F%87%B1%F0%9F%87%BALU%20%7C%20@V2ray_Collector
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=%2FChannel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40VPNOD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hf5a6a5Yi25LiT57q/77yaQFFTMDAwMDgiLCJhZGQiOiI0NS4xMi4xNDQuNzkiLCJwb3J0Ijo0NzEyNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICIxODguNDIuODkuMTQiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAxOC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=%2FChannel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40VPN

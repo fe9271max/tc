@@ -1,1 +1,1 @@
-vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?encryption=none&security=none&type=tcp&headerType=none#%40Sezar_Sec | 3.13s
+vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?encryption=none&security=none&type=tcp&headerType=none#%40Sezar_Sec | 0.77s

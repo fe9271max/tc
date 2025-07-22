@@ -1,2 +1,0 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85 | 1.74s
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85 | 2.37s

@@ -1,1 +1,2 @@
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&encryption=none&type=ws&path=/#[ | 2.25s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=none&encryption=none&type=grpc#TelegramID | 0.19s
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&encryption=none&type=ws&path=/#[ | 1.02s

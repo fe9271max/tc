@@ -1,1 +1,1 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&path=%2F#Telegram%3A%20%40FarahVPN | 6.35s
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#Telegram%3A%20%40FarahVPN | 0.66s

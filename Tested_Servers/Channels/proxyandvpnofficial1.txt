@@ -1,0 +1,5 @@
+vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 1.27s
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 1.45s
+vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?path=%2F&security=&encryption=none&host=refersion.com&type=ws#%5B%F0%9F%9A%80%5D+%E2%9E%A0+%40V2ray_Gl | 2.00s
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 2.36s
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 2.94s

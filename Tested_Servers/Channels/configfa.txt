@@ -1,2 +1,2 @@
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#%40Free_NetPlus | 2.08s
-vless://da136ee3-4759-48ee-a593-62ea5a6c845d@91.99.215.196:443?security=none&encryption=none&headerType=none&type=tcp#%40Free_NetPlus | 16.48s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&type=grpc#%40Free_NetPlus | 0.63s
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#%40Free_NetPlus | 1.36s

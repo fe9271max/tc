@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%40V2ray1_Ng%20ALL | 0.54s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng | 1.18s

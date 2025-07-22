@@ -1,1 +1,2 @@
-vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#t.me/entryNET/config=1838281721129507 | 1.50s
+vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780?security=none&type=tcp&headerType=&path=&host=#t.me/entryNET/config=1838329481624884 | 3.20s
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=%2F&security=none&encryption=none&type=ws#t.me/entryNET/config=1838328402138026 | 3.63s

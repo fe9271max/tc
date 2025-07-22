@@ -1,8 +1,6 @@
-vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&encryption=none&headerType=none&type=tcp#Moftinet5 | 1.12s
-vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#Moftinet1 | 1.73s
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&headerType=none&type=tcp#Moftinet1 | 2.03s
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#Moftinet2 | 2.91s
-vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#Moftinet6 | 4.62s
-vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Moftinet5 | 5.88s
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-&headerType=none&type=tcp#Moftinet4 | 8.00s
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Moftinet2 | 12.06s
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#Moftinet2 | 0.49s
+vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&encryption=none&headerType=none&type=tcp#Moftinet5 | 0.73s
+vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?path=%2Fydgmopws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#Moftinet1 | 0.77s
+vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#Moftinet1 | 0.93s
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Moftinet2 | 0.97s
+vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Moftinet5 | 1.13s

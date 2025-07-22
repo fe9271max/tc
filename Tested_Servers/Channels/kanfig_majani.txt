@@ -1,1 +1,2 @@
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=%2F&security=none&encryption=none&type=ws#t.me%2Fkanfig_majani | 2.61s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%20%3A%20%40kanfig_majani | 1.23s
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=%2F&security=none&encryption=none&type=ws#t.me%2Fkanfig_majani | 1.91s

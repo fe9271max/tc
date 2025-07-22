@@ -1,7 +1,7 @@
-vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?path=%2F&security=&encryption=none&type=ws#VayNora | 1.94s
-vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?path=%2F&security=&encryption=none&type=ws#VayNora | 2.09s
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?security=none&encryption=none&type=ws&host=fin.channel.digicyber.click&path=/olem/ws?ed%3D1024#VayNora | 4.64s
-vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=%2F&security=&encryption=none&type=ws#VayNora | 7.42s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#VayNora | 10.37s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&encryption=none&type=grpc#VayNora | 12.98s
-vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?path=%2F&security=&encryption=none&type=ws#VayNora | 28.66s
+vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?path=%2F&security=&encryption=none&type=ws#VayNora | 0.62s
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?security=none&encryption=none&type=ws&host=fin.channel.digicyber.click&path=/olem/ws?ed%3D1024#VayNora | 0.76s
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&type=tcp&headerType=none#VayNora | 0.90s
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=%2F&security=&encryption=none&type=ws#VayNora | 1.42s
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?path=%2F&security=&encryption=none&type=ws#VayNora | 1.62s
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?security=none&encryption=none&type=ws&path=/#VayNora | 1.94s
+vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780?security=none&encryption=none&type=tcp&headerType=none#VayNora | 1.99s
