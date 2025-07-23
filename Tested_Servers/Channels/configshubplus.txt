@@ -1,3 +1,1 @@
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?encryption=none&security=none&type=ws&host=cdn39030.marzban-l.ir&path=%2F%3Fed%3D2048#[ | 3.28s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#[ | 4.10s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#[ | 5.51s
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#[ | 0.55s

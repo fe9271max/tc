@@ -1,2 +1,3 @@
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none# | 1.70s
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount | 4.29s
+vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=638880231667527799.madrid-prx-dnraaao.info&type=ws&path=/jzkedews&host=638880231667527799.madrid-prx-dnraaao.info&packetEncoding=xudp&encryption=none#MTN%20@NetAccount | 0.56s
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&sni=lease-20.access.name.ng&type=ws&path=/&host=lease-20.access.name.ng&packetEncoding=xudp&encryption=none#MCI%20@NetAccount | 1.29s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#MTN%20@NetAccount | 1.91s

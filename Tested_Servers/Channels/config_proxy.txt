@@ -1,7 +1,3 @@
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#Telegram:@config_proxy | 1.56s
-vless://f954d7c1-e793-45e7-8505-8e95e6170dbb@159.203.138.123:9387?security=none&encryption=none&type=ws#Telegram:@config_proxy | 2.85s
-vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#Telegram:@config_proxy | 3.38s
-vless://342205fd-f024-406a-8ac6-2356f9df0daa@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638886055652718670.warsaw-prx-dnraaao.info&type=ws&host=638886055652718670.warsaw-prx-dnraaao.info&path=%2Fbqaegrws#Telegram:@config_proxy | 3.59s
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#Telegram:@config_proxy | 3.93s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=62LjGx6K5j.SaLaMgOjAi09-2.InFo&alpn=h3h2&type=ws&host=62LjGx6K5j.SaLaMgOjAi09-2.InFo&path=%2F#Telegram:@config_proxy | 5.09s
-vless://4b33b482-25bc-49e4-b866-878c914d945a@iiiiiiiiiiio.huangshang.dpdns.org:443?encryption=none&security=tls&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG&fp=random&type=ws&host=iiiiiiiiiiio.huangshang.dpdns.org&path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd#Telegram:@config_proxy | 13.86s
+vless://81ed7265-be10-498b-c96f-46789e81ac88@104.248.105.52:45877?security=none&encryption=none&host=/v2ray_configs_poolsTELEGRAM----@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&headerType=none&type=tcp#Telegram:@config_proxy | 0.50s
+vless://fe96c92f-8526-4ea9-9db0-7d151370f83b@srv18.flightbean24.com:80?path=%2F&security=none&encryption=none&host=panel.tgju.gold&type=ws#Telegram:@config_proxy | 0.56s
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?path=%2F&security=&encryption=none&type=ws#Telegram:@config_proxy | 0.62s

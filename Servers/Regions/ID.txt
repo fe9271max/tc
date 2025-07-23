@@ -1,4 +1,4 @@
+vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.lovelive-anime.jp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#%40gh_v2rayng
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%A9
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&encryption=none&headerType=&type=tcp#Telegram:@config_proxy
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%A9

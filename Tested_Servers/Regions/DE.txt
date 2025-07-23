@@ -1,7 +1,4 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.32:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@V2ray_Collector | 1.99s
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.112.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 5.87s
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.189.136:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 3.56s
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount | 4.29s
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&encryption=none&type=tcp&headerType=none#VayNora | 7.99s
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&encryption=none&type=tcp&headerType=none#https://t.me/confing_chanel | 5.82s
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&type=tcp&packetEncoding=xudp&encryption=none | 4.64s
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.32:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@V2ray_Collector | 1.12s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.120.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 1.23s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.11.46:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig | 0.57s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.120.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk | 0.85s

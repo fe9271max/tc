@@ -1,2 +1,2 @@
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 3.32s
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 5.05s
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 0.63s
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray | 1.60s

@@ -1,3 +1,2 @@
-vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 6.71s
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 10.74s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 13.34s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=&encryption=none&type=grpc#%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7 | 1.01s
+vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 1.39s

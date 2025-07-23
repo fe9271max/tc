@@ -1,10 +1,6 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc# | 2.20s
-vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780?security=none&type=tcp&headerType=&path=&host=# | 2.28s
-vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws# | 2.30s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh24v2.vetmainconf.shop&alpn=&type=grpc&host=pqh24v2.vetmainconf.shop# | 2.35s
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws# | 3.75s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=# | 4.04s
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=&encryption=none&type=ws# | 4.60s
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp# | 5.42s
-vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp# | 5.86s
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F# | 11.68s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v2.waipdirect.shop:8880?encryption=none&security=none&sni=pqh29v2.waipdirect.shop&alpn=&type=grpc&host=pqh29v2.waipdirect.shop# | 0.10s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc# | 0.11s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh24v2.vetmainconf.shop&alpn=&type=grpc&host=pqh24v2.vetmainconf.shop# | 0.41s
+vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp# | 1.53s
+vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F# | 4.18s
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws# | 5.52s

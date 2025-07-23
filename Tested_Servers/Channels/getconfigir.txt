@@ -1,1 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880/?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#Telegram: | 1.81s
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80/?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#Telegram: | 0.53s
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80/?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#Telegram: | 1.12s
+vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@170.64.183.81:443/?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#Telegram: | 1.83s

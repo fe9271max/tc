@@ -1,8 +1,6 @@
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#@GODV2RAY | 4.69s
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=&encryption=none&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 14.11s
-vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.68:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A8%F0%9F%87%BCCW%20%7C%20@V2ray_Collector | 2.74s
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2052?path=/&security=none&encryption=none&host=zpixdadk1.kortiz.info&type=ws#%E2%9C%A8%20@NamiraNet%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%2077.91.122.176%20%7C%20%F0%9F%87%B3%F0%9F%87%B1 | 3.29s
-vless://f0120192-22d8-47cf-9963-7f8f77900e11@174.138.5.94:45500?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7 | 2.74s
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%40manzariyeh_rasht%29%20free | 7.24s
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=none&encryption=none&type=tcp&headerType=none#@free_serverir | 4.55s
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%20free | 4.12s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%40kingofilter | 0.52s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2096?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/&host=zpixdadk5.kortiz.info&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20@V2ray_Collector | 0.57s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#TG%3A%40v2ray_sub | 0.48s
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp | 0.68s
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#IRAN%20342%20%28%40manzariyeh_rasht%29%20free | 2.79s
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%F0%9F%8C%8A%20%40vmess_ir | 1.09s

@@ -1,1 +1,2 @@
-vless://09f1d928-05ab-4ba2-80c5-f33edc244024@242488292719828919.m.www.servers801.ir:8443?path=%2F45f4d22d.Mareza.pages.dev%3Fed%3D80&security=tls&encryption=none&host=45f4d22d.mareza.pages.dev&type=ws&sni=115794818s.servers801.ir#ترکیه | 5.26s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#All%20net%20telegram%3A%20%40ultrasurf_12 | 0.06s
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7 | 0.80s

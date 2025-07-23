@@ -1,4 +1,4 @@
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%40Surfboardv2ray | 3.03s
-vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40Surfboardv2ray | 3.47s
-vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?encryption=none&security=none&type=ws&host=0612.heweiyi.dpdns.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_4015_%40Surfboardv2ray | 16.23s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO&alpn=h3h2&allowInsecure=1&type=ws&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_1904_%40Surfboardv2ray | 16.91s
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%40Surfboardv2ray | 0.43s
+vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@practical-complaint.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40Surfboardv2ray | 0.49s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO&alpn=h3h2&allowInsecure=1&type=ws&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_1904_%40Surfboardv2ray | 0.84s
+vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?encryption=none&security=none&type=ws&host=0612.heweiyi.dpdns.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA_4015_%40Surfboardv2ray | 1.57s

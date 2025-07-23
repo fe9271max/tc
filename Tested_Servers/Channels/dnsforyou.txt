@@ -1,2 +1,2 @@
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=&encryption=none&host=skyroom.online&headerType=none&type=tcp#@dnsforyou | 0.56s
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#@dnsforyou | 7.80s
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#@dnsforyou | 0.50s
+vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@dnsforyou | 1.01s

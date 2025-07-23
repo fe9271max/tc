@@ -1,4 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&type=grpc#%40Free_NetPlus | 2.19s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%40Free_NetPlus | 3.48s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#%40Free_NetPlus | 5.08s
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#%40Free_NetPlus | 16.38s
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#%40Free_NetPlus | 1.18s

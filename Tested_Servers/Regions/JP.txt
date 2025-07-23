@@ -1,2 +1,1 @@
-vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.139&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@V2ray_Collector | 3.60s
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey%20%F0%9F%94%92 | 1.58s
+vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.139&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@V2ray_Collector | 1.33s

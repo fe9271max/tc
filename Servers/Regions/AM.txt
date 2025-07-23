@@ -1,9 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#@CUSTOMVPNSERVER
 vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#Telegram%20%3A%20%40kanfig_majani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aFprRlJBNFY0MEtLMGpTbFBTUWUy@2.56.207.119:8443#t.me/entryNET/config=1838370303222200
-vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@185.162.231.211:8080?path=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=china.pwteam.ir&type=ws#@info_2IT_channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#%40VPNOD%20%20%20%20%20%3A%20%20%20%20TELEGRAM%20CHANNEL
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.252:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40kanfig_majani
-vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#Telegram:@config_proxy
+vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@185.162.231.211:8080?path=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=china.pwteam.ir&type=ws#@info_2IT_channel
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.252:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560#T.me%2FVpn_Mafia%20%F0%9F%87%AC%F0%9F%87%A7%20MCI
+vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#Telegram%20%3A%20%40kanfig_majani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#@CUSTOMVPNSERVER
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.252:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40kanfig_majani

@@ -1,3 +1,6 @@
-vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?flow=&path=%2F&type=ws#telegram | 1.79s
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#telegram | 3.86s
-vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?encryption=none&security=none&type=ws&path=%2F#telegram | 14.31s
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v1.hiddendom.shop&alpn=h2&type=grpc&host=pqh29v1.hiddendom.shop#telegram | 0.17s
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.17.197.101:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#telegram | 0.46s
+vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?flow=&path=%2F&type=ws#telegram | 0.50s
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706456643.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706456643.amsterdam-prx-dnraaal.info&path=/mmdhmrws#telegram | 0.60s
+vless://f16293a9-500a-4c0a-b4d8-adad9efdfed2@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638886055652719137.warsaw-prx-dnraaao.info&type=ws&alpn=&host=638886055652719137.warsaw-prx-dnraaao.info&path=/aghccwws#telegram | 0.65s
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=Ra29UeSzQc.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Ra29UeSzQc.SaLaMgOjAi09-2.InFo&path=/#telegram | 0.95s

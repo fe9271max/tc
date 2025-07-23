@@ -1,2 +1,2 @@
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40SkiVpn%E2%9C%85%F0%9F%8F%82all%C2%B2 | 5.99s
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40SkiVpn%E2%9C%85%F0%9F%8F%82all%C2%B9 | 8.12s
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40SkiVpn%E2%9C%85%F0%9F%8F%82all%C2%B2 | 0.67s
+vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40SkiVpn%E2%9C%85%F0%9F%8F%82all%C2%B9 | 1.14s

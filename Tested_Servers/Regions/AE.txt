@@ -1,2 +1,2 @@
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#telegram | 3.86s
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?security=&type=ws&path=/&host=register.tunnelbreaking.shop&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE%20%7C%20@V2ray_Collector | 3.03s
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?security=&type=ws&path=/&host=register.tunnelbreaking.shop&encryption=none#%F0%9F%87%A6%F0%9F%87%AAAE%20%7C%20@V2ray_Collector | 1.72s
+vless://401374e6-df77-41fb-f638-dad8184f175b@181.214.1.222:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@V2ray_Collector | 4.19s
