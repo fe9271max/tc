@@ -1,5 +1,0 @@
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/ | 0.50s
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/ | 0.58s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&security=none&type=grpc#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.84s
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.92s
-vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=pishgam.pinpen.ir.&fp=chrome&type=ws&sni=pishgam.pinpen.ir.#%40NETMelliAnti | 1.23s

@@ -1,3 +1,3 @@
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80/?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#Telegram: | 0.53s
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80/?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#Telegram: | 1.12s
-vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@170.64.183.81:443/?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#Telegram: | 1.83s
+vless://69de815f-ef95-4e7c-d5da-6c52babfba8b@171.22.173.206:28931/?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram: | 0.86s
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171/?flow=&type=tcp&headerType=none&security=none#Telegram: | 1.34s
+vless://aa44c14d-618f-48aa-8577-d9e63c27a43a@be.kimjo.ir:8080/?security=none&type=ws&headerType=&path=&host=#Telegram: | 1.77s

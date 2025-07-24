@@ -1,2 +1,1 @@
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?encryption=none&security=none&type=tcp&headerType=none#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF | 0.92s
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6UA%20%7C%20@V2ray_Collector | 0.50s
+vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#@info_2IT_channel | 0.62s

@@ -1,2 +1,0 @@
-vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%8D67 | 0.24s
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=BpDnUd86Z1.aLaNvMmJaF-dM1.iNfO&type=ws&sni=BpDnUd86Z1.aLaNvMmJaF-dM1.iNfO#%F0%9F%87%A8%F0%9F%87%A6 | 0.76s

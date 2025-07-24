@@ -1,2 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#بیاید | 0.69s
-vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?security=none&encryption=none&type=ws&path=/#@free_serverir | 0.95s
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&encryption=none&type=ws&path=/#[ | 0.73s
+vless://cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d@www.speedtest.net:2096?security=tls&encryption=none&type=ws&host=638879176706570136.amsterdam-prx-dnraaal.info&path=/nqxbfjws&sni=638879176706570136.amsterdam-prx-dnraaal.info&fp=chrome#TelegramID | 0.84s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?security=none&encryption=none&type=grpc#@free_serverir | 2.12s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#بیاید | 2.71s

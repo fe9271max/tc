@@ -1,4 +1,4 @@
-vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 0.52s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 0.86s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 1.48s
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 4.73s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 0.24s
+vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 0.56s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 0.70s
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 1.33s

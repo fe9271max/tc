@@ -1,6 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v2.waipdirect.shop:8880?encryption=none&security=none&sni=pqh29v2.waipdirect.shop&alpn=&type=grpc&host=pqh29v2.waipdirect.shop# | 0.10s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc# | 0.11s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh24v2.vetmainconf.shop&alpn=&type=grpc&host=pqh24v2.vetmainconf.shop# | 0.41s
-vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp# | 1.53s
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F# | 4.18s
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws# | 5.52s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc# | 0.27s

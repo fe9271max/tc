@@ -1,1 +1,1 @@
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 | 0.60s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880/?type=grpc&encryption=none&flow=#%40networld_vpn | 1.02s

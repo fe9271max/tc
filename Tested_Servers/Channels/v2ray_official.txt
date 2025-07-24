@@ -1,5 +1,0 @@
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#[ | 0.49s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#[ | 0.50s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&encryption=none&type=grpc#[ | 1.00s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=&encryption=none&type=grpc#[ | 1.80s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&encryption=none&type=grpc#[ | 2.87s

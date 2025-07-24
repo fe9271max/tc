@@ -1,2 +1,1 @@
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?type=ws&path=%2F%3Fed%3D2048&host=cdn39030.marzban-l.ir&security=none#@vpnv2rayNGv | 0.81s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&type=grpc#@vpnv2rayNGv | 4.06s
+vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?encryption=none&security=none&type=ws&host=refersion.com&path=%2F#@vpnv2rayNGv | 1.21s
