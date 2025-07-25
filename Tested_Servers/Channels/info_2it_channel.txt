@@ -1,9 +1,5 @@
-vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&encryption=none&headerType=none&type=tcp#@info_2IT_channel | 0.62s
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#@info_2IT_channel | 0.62s
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&security=none&encryption=none&type=ws#@info_2IT_channel | 0.87s
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?flow=&path=%2F&type=ws#@info_2IT_channel | 0.90s
-vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#@info_2IT_channel | 0.92s
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?flow=&path=%2F&type=ws#@info_2IT_channel | 0.92s
-vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?flow=&path=%2F&type=ws#@info_2IT_channel | 1.61s
-vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40info_2IT_channel | 9.06s
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@info_2IT_channel | 9.17s
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=%2F&security=none&encryption=none&type=ws#@info_2IT_channel | 0.72s
+vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?path=%2F&security=none&encryption=none&type=ws#@info_2IT_channel | 0.74s
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?flow=&path=%2F&type=ws#@info_2IT_channel | 0.76s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2082/?type=ws&encryption=none&flow=#@info_2IT_channel | 0.79s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2082/?type=ws&encryption=none&flow=&path=%2F?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#@info_2IT_channel | 0.87s

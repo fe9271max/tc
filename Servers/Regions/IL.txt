@@ -1,6 +1,5 @@
-vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#https://t.me/falcunargo
-vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#https%3A%2F%2Ft.me%2Fpsiphonf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg%3D@89.221.225.88:443#telegram%20%40V_2rayng0
-vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#Telegram%20%40v2rayng_fars
-vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@vpnv2rayNGv
 vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#[
+vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@vpnv2rayNGv
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg%3D@89.221.225.88:443#telegram%20%40V_2rayng0
+vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#https%3A%2F%2Ft.me%2Fpsiphonf
+vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#Telegram%20%40v2rayng_fars

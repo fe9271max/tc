@@ -1,4 +1,5 @@
-vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443/?type=ws&encryption=none&flow=&host=eeeddcvf.859886.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&sni=eEeDdcvF.859886.XYZ&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp | 0.31s
-vless://34c13de4-7cec-5238-a730-a78f5ae8f890@5.39.249.119:443?path=%2Fvless&security=tls&encryption=none&host=5.39.249.119&fp=chrome&type=ws&sni=zula.ir | 1.29s
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.189.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk | 2.57s
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@d270391091093100193938819293819w6.servers801.ir:2096?security=none&type=ws&headerType=&path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&host=45f4d22d.Mareza.pages.dev | 3.88s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.67.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk | 0.90s
+vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetafn.hpcdn.info&path=%2F16156%2FwsMMad | 0.97s
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp | 1.14s
+vless://7c9af6bc-8dc1-4846-b2d4-533e95c4a7bf@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws | 1.27s
+vless://b134d262-fc5e-4ce4-924d-8d57e91b0126@jetade.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetade.hpcdn.info&path=%2F42933%2FwsMMad | 2.63s

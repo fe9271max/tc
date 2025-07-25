@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee | 0.39s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#proxy_kafee | 3.41s

@@ -1,1 +1,0 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40ohvpn%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A41.0ms | 1.25s

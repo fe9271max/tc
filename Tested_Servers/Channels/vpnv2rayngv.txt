@@ -1,1 +1,2 @@
-vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?encryption=none&security=none&type=ws&host=refersion.com&path=%2F#@vpnv2rayNGv | 1.21s
+vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?encryption=none&security=none&type=ws&host=refersion.com&path=%2F#@vpnv2rayNGv | 1.30s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#@vpnv2rayNGv | 2.11s

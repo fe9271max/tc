@@ -1,1 +1,1 @@
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#https://t.me/falcunargo | 2.38s
+vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws# | 7.71s

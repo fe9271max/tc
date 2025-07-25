@@ -1,3 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 0.73s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 0.90s
-vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 2.01s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 1.57s
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 2.22s
+vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 2.48s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40 | 2.86s

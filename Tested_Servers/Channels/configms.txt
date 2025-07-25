@@ -1,2 +1,1 @@
-vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443?type=ws&host=xscdfr.859886.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XsCdFr.859886.xYZ&alpn=http/1.1#@configMs | 0.29s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&mode=gun#@configMs | 2.20s
+vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443?type=ws&host=xscdfr.859886.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XsCdFr.859886.xYZ&alpn=http/1.1#@configMs | 0.36s

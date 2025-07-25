@@ -1,4 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&encryption=none&type=grpc#VayNora | 0.67s
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?security=none&encryption=none&type=ws&host=fin.channel.digicyber.click&path=/olem/ws?ed%3D1024#VayNora | 0.91s
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?security=none&encryption=none&type=ws&path=/#VayNora | 1.70s
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&type=tcp&headerType=none#VayNora | 6.88s
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?security=none&encryption=none&type=ws&path=/#VayNora | 0.69s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&encryption=none&type=grpc#VayNora | 0.83s

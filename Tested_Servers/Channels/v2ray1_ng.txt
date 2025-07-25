@@ -1,3 +1,2 @@
-vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#%40NpvV2rayFilTer | 1.31s
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%40V2ray1_Ng | 1.34s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40NpvV2rayFilTer | 1.91s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40NpvV2rayFilTer | 0.62s
+vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#%40NpvV2rayFilTer | 1.79s

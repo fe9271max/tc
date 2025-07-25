@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&type=grpc# | 4.24s
+vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws#%5B%F0%9F%87%B1%F0%9F%87%BA%5D%vipV2rayNGnp%283%29 | 7.26s

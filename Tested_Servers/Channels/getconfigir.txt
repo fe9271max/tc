@@ -1,3 +1,4 @@
-vless://69de815f-ef95-4e7c-d5da-6c52babfba8b@171.22.173.206:28931/?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram: | 0.86s
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171/?flow=&type=tcp&headerType=none&security=none#Telegram: | 1.34s
-vless://aa44c14d-618f-48aa-8577-d9e63c27a43a@be.kimjo.ir:8080/?security=none&type=ws&headerType=&path=&host=#Telegram: | 1.77s
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.19.118.80:2052/?path=%2F&security=none&encryption=none&host=register.tunnelbreaking.shop&type=ws#Telegram: | 0.68s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052/?security=none&encryption=none&type=ws#Telegram: | 1.30s
+vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931/?security=none&encryption=none&headerType=none&type=tcp#Telegram: | 1.38s
+vless://7c9af6bc-8dc1-4846-b2d4-533e95c4a7bf@104.16.1.106:2082/?path=%2F%3Fed%3D2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#Telegram: | 1.98s

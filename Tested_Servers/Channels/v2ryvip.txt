@@ -1,3 +1,4 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#v2ray_cartel | 0.23s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#@v2ryvip | 0.32s
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ryvip | 1.73s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#v2ray_cartel | 0.69s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ryvip | 0.73s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ryvip | 0.91s
+vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=NIce-APartMEnt.ZULAir.ORg&type=ws# | 1.13s

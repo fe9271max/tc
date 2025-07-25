@@ -1,2 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7 | 0.95s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8 | 4.23s
+vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&fp=firefox&type=ws&sni=psto.fullmargintraders.com#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 0.95s
+vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6 | 0.97s
