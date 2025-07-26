@@ -1,2 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40NpvV2rayFilTer | 0.62s
-vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#%40NpvV2rayFilTer | 1.79s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40NpvV2rayFilTer | 0.44s
+vless://e0408566-637f-4981-b4dd-36be7abc7ae0@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjoezizws&security=tls&encryption=none&host=638890561652289252.esfahan-prx-dnraaao.info&type=ws&sni=638890561652289252.esfahan-prx-dnraaao.info#%40NpvV2rayFilTer | 0.70s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#%40NpvV2rayFilTer | 0.91s

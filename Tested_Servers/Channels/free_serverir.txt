@@ -1,4 +1,2 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=none&encryption=none&type=grpc#TelegramID | 0.24s
-vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&encryption=none&type=ws&path=/#[ | 1.01s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=none&encryption=none&type=grpc#@free_serverir | 1.29s
-vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?security=none&encryption=none&type=ws&path=/#@free_serverir | 1.49s
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&encryption=none&type=ws&path=/#[ | 0.52s
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&encryption=none&type=ws&path=/#[ | 5.91s

@@ -1,3 +1,4 @@
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig | 1.32s
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=%2FY-%3Fed&type=ws#[ | 1.26s
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80/?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&type=ws# | 3.64s
+vless://b54b4029-43df-4068-8e0d-ce8f524ba5e9@194.180.11.193:53740?mode=gun&security=none&encryption=none&type=grpc#@napoliii1994 | 1.81s
+vless://fd374109-b4df-4a60-a3dc-4949adefdca8@45.159.148.232:2097?type=ws&host=www.speedtest.net&path=/DwonloadAhng&security=none#-Bot-@_1000GB | 0.87s
+vless://fd374109-b4df-4a60-a3dc-4949adefdca8@45.159.148.232:2097?type=ws&host=www.speedtest.net&path=/DwonloadAhng&security=none#-Bot-@_1000GB | 0.89s
+vless://b54b4029-43df-4068-8e0d-ce8f524ba5e9@194.180.11.193:53740?mode=gun&security=none&encryption=none&type=grpc | 1.10s

@@ -1,3 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN%20332%20%28%40Outline_Vpn%29%20free | 0.85s
-vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smiTs.joOjehtor.it.cOm&fp=chrome&type=ws&sni=smiTs.joOjehtor.it.cOm#IRAN%20382%20%28%40Outline_Vpn%29%20free | 1.34s
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20361%20%28%40Outline_Vpn%29%20free | 4.52s
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN%20261%20%28%40Outline_Vpn%29%20free | 0.45s
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20417%20%28%40Outline_Vpn%29%20free | 0.49s
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20361%20%28%40Outline_Vpn%29%20free | 0.52s
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&fp=chrome&type=ws&sni=iran.akcovufun.ir#IRAN%20414%20%28%40Outline_Vpn%29%20free | 0.93s

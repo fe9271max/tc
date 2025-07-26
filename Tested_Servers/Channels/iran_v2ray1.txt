@@ -1,6 +1,4 @@
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#%40Iran_V2RAY1 | 0.16s
-vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#%40Iran_V2RAY1 | 0.16s
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Config%20VIP%20%40iran_v2ray1 | 0.72s
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40Iran_V2RAY1 | 1.15s
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#%40Iran_V2RAY1 | 1.76s
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IR-%40Iran_V2ray1 | 3.06s
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#%40Iran_V2RAY1 | 0.31s
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#%40Iran_V2RAY1 | 0.46s
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#%40Iran_V2RAY1 | 0.53s
+vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Config%20VIP%20%40iran_v2ray1 | 0.76s

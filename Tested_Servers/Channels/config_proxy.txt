@@ -1,2 +1,2 @@
-vless://7c9af6bc-8dc1-4846-b2d4-533e95c4a7bf@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#Telegram:@config_proxy | 0.66s
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.67.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy | 0.83s
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.70.114:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy | 0.57s
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?security=none&encryption=none&type=ws#Telegram:@config_proxy | 0.83s

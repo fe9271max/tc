@@ -1,4 +1,4 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%BA%F0%9F%87%B8 | 0.24s
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%BA%F0%9F%87%B8 | 0.28s
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%A8%F0%9F%87%A6 | 0.78s
-vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?path=%2F&security=&encryption=none&type=ws#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%A8%F0%9F%87%A6 | 0.90s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%BA%F0%9F%87%B8 | 0.05s
+vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%A8%F0%9F%87%A6 | 0.49s
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%88%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Viturey%40 | 0.78s
+vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#Telegram%20ID%3A%20%40Viturey%20%F0%9F%87%A8%F0%9F%87%A6 | 1.50s

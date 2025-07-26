@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%E6%B3%95%E5%9B%BD_071713028 | 1.83s
+vless://798a1af6-46cb-4183-93ae-d7e5b25039c3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fboopqbws&security=tls&encryption=none&host=638880231667402586.madrid-prx-dnraaao.info&type=ws&sni=638880231667402586.madrid-prx-dnraaao.info#Join%20Telegram%3A%40Farah_VPN | 0.75s

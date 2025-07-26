@@ -1,3 +1,2 @@
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%40kingofilter | 1.01s
-vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#IRAN%20400%20%28%40kingofilter%29%20free | 3.71s
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20372%20%28%40kingofilter%29%20free | 13.64s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#%40kingofilter | 0.69s
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#IRAN%20400%20%28%40kingofilter%29%20free | 7.82s

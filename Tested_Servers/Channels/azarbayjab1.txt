@@ -1,1 +1,2 @@
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-20.access.name.ng&type=ws&sni=lease-20.access.name.ng#%40AZARBAYJAB1%20%F0%9F%87%A8%F0%9F%87%A6 | 1.19s
+vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%B5%40AZARBAYJAB1 | 0.58s
+vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40AZARBAYJAB1 | 5.52s

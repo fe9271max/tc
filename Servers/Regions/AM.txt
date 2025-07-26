@@ -1,6 +1,8 @@
-vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#Telegram%20%3A%20%40kanfig_majani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#%40VPNOD%20%20%20%20%20%3A%20%20%20%20TELEGRAM%20CHANNEL
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B2
-vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#@CUSTOMVPNSERVER
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#%3E%3E%40shadowproxy66%3A%3AAM
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@185.162.228.226:80/?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=fin.channel.digicyber.click&type=ws#@info_2IT_channel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#@CUSTOMVPNSERVER
+vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#Telegram%20%3A%20%40kanfig_majani
+vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?security=none&encryption=none&type=ws#Telegram:@config_proxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#%40VPNOD%20%20%20%20%20%3A%20%20%20%20TELEGRAM%20CHANNEL
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?security=none&encryption=none&type=ws

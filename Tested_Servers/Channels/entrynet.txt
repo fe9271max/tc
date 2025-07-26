@@ -1,3 +1,4 @@
-vless://7f4d81cb-5f08-436b-b961-64cd99b1de51@zz5.1010991.xyz:2052/?type=ws&encryption=none&flow=&host=syyn-us2-FMFtdrS3HI.1095830.xyz&packetEncoding=xudp#t.me/entryNET/config=1838600382238981 | 1.19s
-vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws#t.me/entryNET/config=1838600570602898 | 6.43s
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931/?type=tcp&encryption=none&flow=#t.me/entryNET/config=1838600257821546 | 7.98s
+vless://ad7a2657-d45e-49f6-b206-72d402200b72@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1838689720770734 | 0.60s
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:2096?path=%2F&security=tls&encryption=none&type=ws#t.me/entryNET/config=1838689218108837 | 0.91s
+vless://e182e0b0-4a1c-4247-a6b9-9ee988922ad6@storee.dearagoon.sbs:80?path=%2Fghost%3Fed%3D2048&security=none&encryption=none&host=mahdicomputer.net&type=ws#t.me/entryNET/config=1838692425864568 | 1.73s
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#t.me/entryNET/config=1838683114442658 | 4.67s

@@ -1,1 +1,1 @@
-vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443?type=ws&host=xscdfr.859886.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XsCdFr.859886.xYZ&alpn=http/1.1#@configMs | 0.36s
+vless://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.24.195:443?type=ws&host=9999uuuu.999836.xyz&path=/MIrEVIUviSe8ydvnmRKWDa8&security=tls&fp=chrome&sni=9999UUuU.999836.XYZ&alpn=http/1.1#@configMs | 0.23s

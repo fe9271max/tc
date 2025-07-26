@@ -1,0 +1,2 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%40VPNOD%20%20%20%20%20%3A%20%20%20%20TELEGRAM%20CHANNEL | 0.73s
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#%40VPNOD%20%20%20%20%20%3A%20%20%20%20TELEGRAM%20CHANNEL | 1.16s
